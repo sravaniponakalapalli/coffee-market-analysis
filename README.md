@@ -37,7 +37,7 @@ The analysis focuses on the following key questions:
     - Identify the top 3 cities based on highest sales, returning city name, total sales, total rent, total customers, and estimated coffee consumers.
 
 ## SQL Queries
-All SQL queries used for the analysis are located in the `sql/queries` directory. Each query is named based on the specific analysis it performs.
+All SQL queries used for the analysis are located in the `sql/queries1` directory. Each query is named based on the specific analysis it performs.
 
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
